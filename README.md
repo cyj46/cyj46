@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 ## introduction
-안녕하세요
+안녕하세요 최유정입니다.
 
