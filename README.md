@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 안녕하세요 최유정입니다!
-**Introduction**<br>
+## 안녕하세요 최유정입니다!😄
+#### 다양한 것을 배우며 성장하고 있는 초보 개발자입니다.
+### - **Info**<br>
 영남대학교 컴퓨터학부 2학년<br>
 email : sayyj0406@yu.ac.kr
