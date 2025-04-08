@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## introduction
-안녕하세요 최유정입니다.
-
+## 안녕하세요 최유정입니다!
+**Introduction**<br>
+영남대학교 컴퓨터학부 2학년<br>
+email : sayyj0406@yu.ac.kr
